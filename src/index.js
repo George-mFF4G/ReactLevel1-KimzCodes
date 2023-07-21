@@ -8,6 +8,7 @@ ReactDom.render(
   // </StrictMode>
   document.getElementById("root")
 );
+//// for react V18
 // const root = createRoot(document.getElementById("root"));
 // root.render(
 //   <StrictMode>
